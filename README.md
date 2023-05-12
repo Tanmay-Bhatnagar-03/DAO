@@ -1,4 +1,4 @@
-# This is my project title
+# Decentralized Autonomous Organization
 
 This sentence describes what my project is about summarized.
 
