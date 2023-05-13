@@ -1,4 +1,4 @@
-# Decentralized Autonomous Organization
+# Decentralized Autonomous Organization (DAO)
 
 This sentence describes what my project is about summarized.
 
